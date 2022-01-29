@@ -1,5 +1,5 @@
 # MemeShare
-An app made for practicing flutter by intergrating with API's 
+An app made for practicing kotlin by intergrating with API's 
 
 # Tech Stack : 
 Kotlin, XML, Android Studio, Glide , Picasso , Heroku
